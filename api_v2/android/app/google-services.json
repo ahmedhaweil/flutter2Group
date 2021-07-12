@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726490081472",
+    "project_id": "flutter2group",
+    "storage_bucket": "flutter2group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726490081472:android:5d0766047b5da27e6b2525",
+        "android_client_info": {
+          "package_name": "com.amit.api_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726490081472-6ptopvo8mit37j1t2aal6lh69tr11mkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFNPww1YY80WFNnbJQvdfSKjnqSZXBa1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726490081472-6ptopvo8mit37j1t2aal6lh69tr11mkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
