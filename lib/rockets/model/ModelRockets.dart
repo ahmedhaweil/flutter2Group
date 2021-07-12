@@ -7,6 +7,9 @@ class ModelRockets{
   String _country;
   ModelRockets.fromAPI(dynamic json){
    _name= json["name"];
+
+
+
    _type= json["type"];
    _company= json["company"];
    _description= json["description"];

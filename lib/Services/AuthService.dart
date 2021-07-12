@@ -9,6 +9,8 @@ class AuthService{
           email: email,
           password: password
       );
+
+
       print("user Cre ${userCredential.user.email}");
       return "Sucess signIn";
     } on FirebaseAuthException catch (e) {
